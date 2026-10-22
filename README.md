@@ -15,15 +15,15 @@ Profissional em transição/evolução para a área de **Análise de Dados**, fo
 
 ### 📌 Projetos em Destaque
 
-* 📊 **[Nome do Projeto 1](link-do-repositorio):** Descrição curta em 1 linha sobre a dor do negócio que o projeto resolveu e as tecnologias usadas (ex: *Análise exploratória de dados de vendas usando Python e Pandas*).
-* 🗄️ **[Nome do Projeto 2](link-do-repositorio):** Projeto focado em consultas complexas, joins e agregações em SQL.
-* 📈 **[Nome do Projeto 3](link-do-repositorio):** Dashboard interativo no Power BI integrado com base de dados tratada.
+* 📊 **[Panorama de Imóveis do Airbnb no Rio de Janeiro](link-do-repositorio):** Descrição: análise de oferta de demanda de imóveis por bairro no Rio de Janeiro e como melhorar a distribuição da oferta*).
+* 🗄️ **[Distribuição de Pequenos Grupos por Bairro e Público em Fortaleza](link-do-repositorio):** Descrição: análise da distribuição de pequenos grupos por bairro e público alvo visando a melhor distribuição em demanda.
+* 📈 **[Projeto 3](link-do-repositorio):** Dashboard interativo no Power BI integrado com base de dados tratada - em construção
 
 ---
 
 ### 📬 Contato
 
-* **LinkedIn:** [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+* **LinkedIn:** [linkedin.com/in/orodrigopimentel](https://linkedin.com/in/orodrigopimentel)
 * **E-mail:** rodrigohsp@hotmail.com
 
 
